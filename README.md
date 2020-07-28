@@ -3,7 +3,7 @@
 A simple Todo app made with the help of Flutter & dart.
 
 # 📜About the App
-
+<img src="https://github.com/afrozshaikh25/todo/blob/master/Screenshots/main.png" alt="s1" width="900">
 
 # 💻Installation
 
